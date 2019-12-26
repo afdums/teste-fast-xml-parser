@@ -1,4 +1,9 @@
+Instalação:
     npm install
 
-Referencia: https://github.com/NaturalIntelligence/fast-xml-parser
+Execução:
+    node .\teste.js
+
+Referencia:
+    https://github.com/NaturalIntelligence/fast-xml-parser
 
