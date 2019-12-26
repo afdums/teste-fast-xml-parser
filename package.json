@@ -1,0 +1,16 @@
+{
+  "name": "teste_XML2JSON",
+  "version": "1.0.0",
+  "description": "https://github.com/buglabs/node-xml2json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-xml-parser": "^3.15.1"
+  },
+  "devDependencies": {}
+}
