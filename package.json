@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fast-xml-parser": "^3.15.1"
+    "fast-xml-parser": "^4.2.4"
   },
   "devDependencies": {}
 }
